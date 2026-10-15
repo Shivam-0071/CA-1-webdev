@@ -1,0 +1,40 @@
+<!DOCTYPE html>
+<html>
+<head>
+  <title>Restaurant Menu</title>
+  <meta name="viewport" content="width=device-width, initial-scale=1.0">
+  <link rel="stylesheet" href="c.css">
+</head>
+<body style="background-color: black;">
+  <h1>Restaurant Menu</h1>
+  <p id="msg">Click on Order to get your item</p>
+
+  <div class="menu">
+    <div class="card">
+      <h3>water</h3>
+      <p>$10</p>
+      <button onclick="order('water')">Order</button>
+    </div>
+
+    <div class="card">
+      <h3>Sparkling water</h3>
+      <p>$20</p>
+      <button onclick="order('Sparkling water')">Order</button>
+    </div>
+
+    <div class="card">
+      <h3>packaged water</h3>
+      <p>$15</p>
+      <button onclick="order('packaged water')">Order</button>
+    </div>
+
+    <div class="card">
+      <h3>biryani</h3>
+      <p>$1</p>
+      <button onclick="order('biryani')">Order</button>
+    </div>
+  </div>
+
+  <script src="j.js"></script>
+</body>
+</html>

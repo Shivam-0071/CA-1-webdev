@@ -1,0 +1,12 @@
+body{
+    color: white;}
+.menu {
+  display: flex;
+  flex-direction: column;
+}
+.card {
+  border: 4px solid rgb(173, 15, 136);
+  padding: 20px;
+  width: 200px;
+  background-color: blanchedalmond;
+  color:black;}
