@@ -2,7 +2,7 @@ Project Title-<br>
 Simple Restaurant Menu<br>
 <br>
 Project Description-<br>
-This project is a restaurant menu webpage created for my college exam. It displays four items: water, sparkling water, packaged water, and biryani.<br>
+This project is a restaurant menu webpage. It displays four items: water, sparkling water, packaged water, and biryani.<br>
 <br>
 Files Included-<br>
 h.html : Contains the basic structure of the webpage and the buttons.<br>
